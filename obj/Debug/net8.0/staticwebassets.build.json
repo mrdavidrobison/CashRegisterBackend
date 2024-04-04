@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x+jeUXYtmkAvy3nmmIsLTDU8NVP5sHhJCcpsSP1KqJ4=",
+  "Source": "CashRegisterBackend",
+  "BasePath": "_content/CashRegisterBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

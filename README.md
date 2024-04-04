@@ -33,7 +33,7 @@ You can run the application using the following command:
 dotnet run
 ```
 
-This will start the application and it will be accessible at http://localhost:5046/api/CashRegister.
+This will start the application and it will be accessible at http://localhost:5046/api/CashRegister or http://localhost:5046/swagger.
 Alternatively, you can interact with the API using SwaggerUI by visiting http://localhost:5046/swagger/index.html.
 
 License

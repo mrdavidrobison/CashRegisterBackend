@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:38332",
-      "sslPort": 44310
+      "applicationUrl": "http://localhost:5046/",
+      "sslPort": 0
     }
   },
   "profiles": {
@@ -33,6 +33,15 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "swagger",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "CashRegisterBackend": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5046/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

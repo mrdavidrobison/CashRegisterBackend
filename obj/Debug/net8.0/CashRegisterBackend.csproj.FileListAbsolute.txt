@@ -31,3 +31,4 @@ C:\Users\david\Cash-Register\CashRegisterBackend\obj\Debug\net8.0\refint\CashReg
 C:\Users\david\Cash-Register\CashRegisterBackend\obj\Debug\net8.0\CashRegisterBackend.pdb
 C:\Users\david\Cash-Register\CashRegisterBackend\obj\Debug\net8.0\CashRegisterBackend.genruntimeconfig.cache
 C:\Users\david\Cash-Register\CashRegisterBackend\obj\Debug\net8.0\ref\CashRegisterBackend.dll
+C:\Users\david\Cash-Register\CashRegisterBackend\obj\Debug\net8.0\CashRegisterBackend.sourcelink.json

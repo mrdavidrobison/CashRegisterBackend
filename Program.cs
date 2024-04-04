@@ -37,6 +37,6 @@ app.UseHttpsRedirection();
 
 // Add these two lines
 app.UseRouting();
-app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
+app.MapControllers();
 
 app.Run();

@@ -2,7 +2,7 @@
 
 CashRegisterBackend is a .NET Core Web API that provides backend services for a cash register application.
 
-## Getting Started
+### Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
@@ -27,7 +27,7 @@ Restore the .NET packages:
 dotnet restore
 ```
 
-#### Running the application
+### Running the application
 You can run the application using the following command:
 ```bash
 dotnet run
